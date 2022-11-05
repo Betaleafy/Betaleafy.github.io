@@ -1,0 +1,41 @@
+body{
+    color:rgb(57, 255, 20);
+    background-color:black;
+}
+a:visited{
+    color:rgb(14, 107, 138);
+}
+.Logoleafy{
+    font-family:'Trebuchet MS';
+}
+.Navbar{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:rgb(57, 255, 20);
+}
+.Navbutton{
+    display:inline;
+    float:left;
+}
+.Navbutton .Hyperlink{
+    display:block;
+    color:rgb(0, 0, 0);
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+.Navbutton .Hyperlink:hover{
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+}
+.Hyperlink{
+    display:block;
+    padding:8px;
+    background-color:rgb(57, 255, 20);
+    font-family:Calibri, Arial;
+}
+.subtitle{
+    font-family:'Trebuchet MS';
+}
